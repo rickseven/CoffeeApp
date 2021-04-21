@@ -1,4 +1,4 @@
-# CoffeeApp
+# Description
 CoffeeApp is an example of a simple console application that applies Dependency Injection using [Ninject](http://www.ninject.org/).
 
 Before continuing, I hope you know what [Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection) is.
